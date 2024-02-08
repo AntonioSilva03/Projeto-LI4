@@ -26,3 +26,5 @@ A implementação desta plataforma passou pela utilização do modelo de 3 camad
 - Blazor
 - Microsoft SQL Server
 - Biblioteca de animações [AOS- Animate on Scroll](https://github.com/michalsnik/aos/tree/v2)
+
+**Nota:** o upload de imagens não foi implementado (epic fail)
